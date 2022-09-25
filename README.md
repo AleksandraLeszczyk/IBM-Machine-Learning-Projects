@@ -1,27 +1,26 @@
-# IBM-Machine-Learning-Projects
-Projects created for IBM Machine Learning Professional Certificate.
+# Projects created for IBM Machine Learning Professional Certificate
 
-1. Concrete strength (regression.pdf)
+:construction_worker:  **Linear regression**
 
-  Do you want to know how to build a durable house? Linear regression allows us to estimate key factors to make a perfect concrete.
+  Do you want to know how to build a durable house? Linear regression allows us to estimate key factors to make a perfect concrete
 
-2. Stroke (classification.pdf)
+:mask: **Classification**
 
   Are you in a stroke risk group? Classification methods can help!
 
-3. Happiest countries (clustering.pdf)
+:earth_americas:  **Clustering**
 
   Although we like to focus on our uniqueness, we have so much in common as the people of the Earth.
   We check which countries are similar based on the World Happiness report.
 
-4. Cat images (neural_network.pdf)
+:heart_eyes_cat:  **Neural networks**
 
-  We use convolutional neural networks to generate cat pictures. Large amount of cats guaranteed.
+  We use convolutional neural networks to generate cat pictures. Large amount of cats guarantee.
 
-5. Investing in gold (time_series.pdf)
+:moneybag: **Time series**
 
   Have you tried to invest in gold? This small model might be helpful.
-  We try use small recurrent neural network to predict future prices.
+  We try use small recurrent neural network to predict future prices based on past values.
   Spoiler alert: it does not do well. The price of gold depends on many other factors.
 
   Adding soon: Jupyter Notebooks
